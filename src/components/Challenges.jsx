@@ -59,6 +59,7 @@ export default function Challenges() {
                   />
                 ))}
               </AnimatePresence>
+              {/* <motion.li key="footer-li">{' '}</motion.li> */}
             </motion.ol>
           )}
           {displayedChallenges.length === 0 && (

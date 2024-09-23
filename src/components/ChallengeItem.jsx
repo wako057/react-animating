@@ -68,7 +68,7 @@ export default function ChallengeItem({
                 </p>
               </motion.div>
             )}
-          </AnimatePresence>ß
+          </AnimatePresence>
         </div>
       </article>
     </motion.li>
